@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cadd8774.css",
+    "main.js": "/static/js/main.f310f8af.js",
+    "static/media/Worldly.jpg": "/static/media/Worldly.729559dfabcba38b3625.jpg",
+    "index.html": "/index.html",
+    "main.cadd8774.css.map": "/static/css/main.cadd8774.css.map",
+    "main.f310f8af.js.map": "/static/js/main.f310f8af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cadd8774.css",
+    "static/js/main.f310f8af.js"
+  ]
+}
